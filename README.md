@@ -21,7 +21,7 @@ I love to solve problems on data structure and algorithms. I use JAVA to solve p
 - [Award Name](link-to-award-details)
 
 ## Contact
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](https://www.linkedin.com/in/vikassingh6271/)
 - [Email](mailto:vikassingh8064@gmail.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
